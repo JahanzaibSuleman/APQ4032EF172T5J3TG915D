@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React application provides a user interface for searching and displaying repositories from GitHub based on an organization. Users can search for organizations, then search for repositories within those organizations. The application utilizes React, Material-UI, and React Query for fetching data.
+
+# Features
+
+- Search for organizations on GitHub.
+- Search for repositories within selected organizations.
+- Display a list of repositories with pagination.
+- Filter repositories by the number of open issues.
+- Display repository details such as ID, name, open issues count, and stars.
 
 ## Available Scripts
 
